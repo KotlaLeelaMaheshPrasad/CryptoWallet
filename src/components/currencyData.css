@@ -1,0 +1,23 @@
+tr td{
+    border-style: solid;
+    width:25vw;
+    text-align: center;
+}
+
+.input{
+    width:95%;
+    height:100%;
+  margin-top:auto;
+  margin-bottom: auto;
+}
+
+
+.table{
+    border-spacing: 0;
+}
+
+.button{
+    background-color:lightseagreen;
+    width:100px;
+ padding:6px;
+}
