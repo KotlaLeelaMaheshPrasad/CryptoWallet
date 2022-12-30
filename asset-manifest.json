@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CryptoWallet/static/css/main.90101a28.css",
+    "main.js": "/CryptoWallet/static/js/main.dd0c1d86.js",
+    "static/js/787.ec704a7a.chunk.js": "/CryptoWallet/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/CryptoWallet/index.html",
+    "main.90101a28.css.map": "/CryptoWallet/static/css/main.90101a28.css.map",
+    "main.dd0c1d86.js.map": "/CryptoWallet/static/js/main.dd0c1d86.js.map",
+    "787.ec704a7a.chunk.js.map": "/CryptoWallet/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90101a28.css",
+    "static/js/main.dd0c1d86.js"
+  ]
+}
